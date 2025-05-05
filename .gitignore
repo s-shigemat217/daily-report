@@ -26,3 +26,6 @@ dist-ssr
 =======
 *.sw?
 >>>>>>> origin/main
+.env
+.firebaserc
+.firebase/hosting.ZGlzdA.cache
